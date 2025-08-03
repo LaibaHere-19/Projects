@@ -15,5 +15,3 @@ Build an LSTM-based sentiment analysis model to classify IMDb movie reviews as p
 3. Run `Project2_SentimentAnalysis.ipynb` in Jupyter Notebook
 4. The model will train and show results
 
-## 📸 Screenshots
-(Add screenshots of confusion matrix or sample prediction here)
